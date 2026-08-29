@@ -75,7 +75,9 @@ public double mathOperation(double value1, double value2) {
 
 ## L'interfaccia grafica
 
-L'interfaccia riproduce l'estetica di una calcolatrice tascabile anni Ottanta: corpo bicolore, display su fondo scuro con cifre ciano da tubo VFD, tasto AC rosso.
+L'interfaccia si ispira alle calcolatrici tascabili Casio degli anni Ottanta: corpo bicolore, display su fondo scuro con cifre ciano da tubo VFD, tasto AC rosso.
+
+![Demo della calcolatrice](demo.gif)
 
 > **Nota sulla realizzazione:** l'interfaccia grafica Swing è stata generata con l'assistenza dell'intelligenza artificiale, secondo l'indicazione esplicita del docente. L'obiettivo didattico del progetto riguardava la progettazione a oggetti, non la costruzione dell'interfaccia. La modellazione delle classi e la logica delle operazioni sono di mia realizzazione.
 
