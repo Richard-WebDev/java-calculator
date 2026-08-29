@@ -1,0 +1,16 @@
+# Bytecode compilato
+*.class
+
+# Archivi
+*.jar
+*.war
+
+# Configurazione editor
+.vscode/
+.idea/
+*.iml
+
+# File di sistema
+.DS_Store
+._*
+Thumbs.db
