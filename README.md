@@ -4,6 +4,8 @@ Calcolatrice con interfaccia grafica in **Java**, costruita attorno a una gerarc
 
 Progetto realizzato come prova d'esame del modulo Java, all'interno del percorso formativo Web Developer AI presso la Steve Jobs Academy (Catania). La traccia era libera: la scelta del dominio e della struttura delle classi è mia.
 
+> Il materiale teorico su cui ho preparato l'esame è raccolto nella [guida a Java](https://github.com/Richard-WebDev/java-guide) che ho scritto durante il modulo.
+
 ---
 
 ## L'idea alla base
